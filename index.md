@@ -13,3 +13,6 @@ Markdown is a simple text formatting language.
 ##### Example Heading 5
 ###### Example Heading 6
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+``` javascript
+var myVar = "Hello, world!";
+```
